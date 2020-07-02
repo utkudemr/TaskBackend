@@ -1,0 +1,66 @@
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb

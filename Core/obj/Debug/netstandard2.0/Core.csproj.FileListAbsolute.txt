@@ -1,0 +1,48 @@
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\original\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\EXAM\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\Core\bin\Debug\netstandard2.0\Core.pdb

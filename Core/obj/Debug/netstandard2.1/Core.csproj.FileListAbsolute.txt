@@ -1,0 +1,8 @@
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache

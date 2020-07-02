@@ -1,0 +1,15 @@
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\Utku Demir\Desktop\original (4)\NorthwindBackend3\NorthwindBackend\Business\obj\Debug\netstandard2.1\Business.pdb
