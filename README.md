@@ -23,16 +23,19 @@ Body
    "Firstname":"utku",
    "Lastname":"demir",
 }
+<br>
 /*************************************************/
+<br>
 Giriş yaparken(post)
-
+<br>
 https://localhost:44335/api/auth/login
-
+<br>
 Body
 {
     "email":"utku@hotmail.com",
     "password":"123456789"
 }
+<br>
 /*************************************************/
 
 Görevleri çekerken(get)
