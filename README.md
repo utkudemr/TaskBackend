@@ -27,9 +27,9 @@ Body
 /*************************************************/
 <br>
 Giriş yaparken(post)
-<br>
+
 https://localhost:44335/api/auth/login
-<br>
+
 Body
 {
     "email":"utku@hotmail.com",
