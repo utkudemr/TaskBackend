@@ -13,7 +13,7 @@ Web api güvenliği olarak JWT kullanıldı.(json web token)
 
 /*************************************************/
 Kayıt olurken(post)
-
+<br>
 https://localhost:44335/api/auth/register
 
 Body
