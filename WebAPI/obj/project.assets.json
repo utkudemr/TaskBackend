@@ -9740,11 +9740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Utku Demir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9765,8 +9765,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Business\\Business.csproj"
+            "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Business\\Business.csproj"
             }
           }
         }

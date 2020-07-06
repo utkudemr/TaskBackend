@@ -7399,11 +7399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Utku Demir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7424,8 +7424,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Core\\Core.csproj"
+            "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Core\\Core.csproj"
             }
           }
         }

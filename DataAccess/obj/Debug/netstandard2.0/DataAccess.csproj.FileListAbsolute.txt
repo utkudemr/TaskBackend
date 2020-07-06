@@ -90,3 +90,16 @@ C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\DataAcces
 C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\Utku Demir\Desktop\EXAM - Kopya\examp\ExamBackend\ExamBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Utku Demir\Source\Repos\TaskBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

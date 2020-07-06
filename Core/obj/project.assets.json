@@ -7409,11 +7409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Utku Demir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utku Demir\\Desktop\\ExamBackend\\ExamBackend\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Utku Demir\\Source\\Repos\\TaskBackend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
