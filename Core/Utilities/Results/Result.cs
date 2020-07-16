@@ -6,9 +6,10 @@ namespace Core.Utilities.Results
 {
     public class Result:IResult
     {
-        public Result(bool success, string message):this(success)
+        public Result(bool success, string message)
         {
             Message = message;
+            Success = success;
         }
 
         public Result(bool success)

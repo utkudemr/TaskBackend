@@ -54,6 +54,7 @@ namespace Business.Concrete
    
         private DateTime GetStartDate(TaskDto task)
         {
+            //Task'ın başlangıç günü belirtilmediyse bugünü hedef alır.
             var datetime = new DateTime();
             if(task.StartDate==null)
             {
@@ -70,11 +71,11 @@ namespace Business.Concrete
 
         public IDataResult<List<Task>> GetTaskList()
         {
-            var list= ExpiredTask(_taskDal.GetList(a=>a.Status==true));
+            var list= ExpiredTask(_taskDal.GetList(a=>a.Status==true));//günü geçmiş task kontrolü
            
             if(list.Count==0)
             {
-                return new SuccessDataResult<List<Task>>(list, Messages.TaskListEmpty);
+                return new ErrorDataResult<List<Task>>(list, Messages.TaskListEmpty);
             }
             return new SuccessDataResult<List<Task>>(list, Messages.TaskList);
         }
@@ -97,14 +98,14 @@ namespace Business.Concrete
 
         public IDataResult<Task> Remove(int taskId)
         {
-            var response = GetTaskById(taskId);
+            var response = _taskDal.Get(a => a.Id == taskId && a.Status == true);
             if (response == null)
             {
                 return new ErrorDataResult<Task>(Messages.TaskNotExists);
             }
-            response.Data.Status = false;
-            _taskDal.Delete(response.Data);
-            return new SuccessDataResult<Task>(response.Data,Messages.TaskDeleted);
+            response.Status = false;
+            _taskDal.Delete(response);
+            return new SuccessDataResult<Task>(response,Messages.TaskDeleted);
         }
         [ValidationAspect(typeof(TaskValidator), Priority = 1)]
         public IDataResult<Task> Update(TaskDto task)

@@ -11,7 +11,7 @@ namespace Core.Utilities.Results
             Data = data;
         }
 
-        public DataResult(T data, bool success):base(success)
+        public DataResult(T data, bool success):base(success)//mesaj göndermek istenmediği durumlarda
         {
             Data = data;
         }

@@ -22,7 +22,7 @@ namespace Core.Utilities.Interceptors
             catch (Exception e)
             {
                 isSuccess = false;
-                OnException(invocation,e);
+                //OnException(invocation,e);
                 throw;
             }
             finally
